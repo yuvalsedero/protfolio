@@ -11,7 +11,7 @@ const MeBanner = () => {
           <div className="relative">
             <h1 className="text-9xl  font-bold">Hi,</h1>
             <h1 className="text-7xl  font-bold">
-              I'm <span className="text-cyan-500 font-bold">Yuval</span>
+              {"I'm"} <span className="text-cyan-500 font-bold">Yuval</span>
             </h1>
             <h1 className="text-3xl  font-bold my-2">web developer</h1>
             <img
